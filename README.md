@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently working on an internship tracking chrome extension
+I am currently working on my own personal website.
 
 
 ## 🌐 Socials:
