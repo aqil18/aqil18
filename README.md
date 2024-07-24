@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:
-I am currently working on my own personal website.
+# About Me:
+I am currently working on my own personal website
 
 
 ## 🌐 Socials:
