@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 # About Me
-Hi there! 👋 I'm a Computer Science student at the University of British Columbia (UBC) with a passion for solving real-world problems through software development. I enjoy exploring fields like AI, robotics, and system design while contributing to impactful projects.
+My name is Aqil, I'm a Computer Science student at the University of British Columbia (UBC) with a passion for solving real-world problems through software development. I enjoy exploring fields like AI, robotics, and system design while contributing to impactful projects.
 
 # Currently Working On
-🚀 A self-driving robot project using Raspberry Pi and embedded systems.
-🤖 AI and ROS experiments with UBC Agrobots.
-🌱 Scheduling and resource management apps for non-profits.
-💡 Personal side projects exploring full-stack development and automation.
+- 🚀 A self-driving robot project using Raspberry Pi and embedded systems.
+- 🤖 AI and ROS experiments with UBC Agrobots.
+- 🌱 Scheduling and resource management apps for non-profits.
+- 💡 Personal side projects exploring full-stack development and automation.
 
 Feel free to connect or check out my repositories below! 😊
 
