@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-# About Me:
-I am currently working on my own personal website
+# About Me
+Hi there! 👋 I'm a Computer Science student at the University of British Columbia (UBC) with a passion for solving real-world problems through software development. I enjoy exploring fields like AI, robotics, and system design while contributing to impactful projects.
 
+# Currently Working On
+🚀 A self-driving robot project using Raspberry Pi and embedded systems.
+🤖 AI and ROS experiments with UBC Agrobots.
+🌱 Scheduling and resource management apps for non-profits.
+💡 Personal side projects exploring full-stack development and automation.
+
+Feel free to connect or check out my repositories below! 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqil-f) 
